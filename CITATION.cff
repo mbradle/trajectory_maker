@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Meyer"
+  given-names: "Bradley Stewart"
+  orcid: "https://orcid.org/0000-0001-6307-9818"
+title: "trajectory_maker"
+version: 1.0.0
+date-released: 2025-11-12
+url: "https://github.com/mbradle/trajectory_maker"
